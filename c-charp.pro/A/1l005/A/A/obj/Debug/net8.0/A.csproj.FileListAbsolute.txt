@@ -1,0 +1,15 @@
+C:\Users\arts1\Desktop\C.sharp-practice\c-charp.pro\A\1l005\A\A\bin\Debug\net8.0\A.exe
+C:\Users\arts1\Desktop\C.sharp-practice\c-charp.pro\A\1l005\A\A\bin\Debug\net8.0\A.deps.json
+C:\Users\arts1\Desktop\C.sharp-practice\c-charp.pro\A\1l005\A\A\bin\Debug\net8.0\A.runtimeconfig.json
+C:\Users\arts1\Desktop\C.sharp-practice\c-charp.pro\A\1l005\A\A\bin\Debug\net8.0\A.dll
+C:\Users\arts1\Desktop\C.sharp-practice\c-charp.pro\A\1l005\A\A\bin\Debug\net8.0\A.pdb
+C:\Users\arts1\Desktop\C.sharp-practice\c-charp.pro\A\1l005\A\A\obj\Debug\net8.0\A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arts1\Desktop\C.sharp-practice\c-charp.pro\A\1l005\A\A\obj\Debug\net8.0\A.AssemblyInfoInputs.cache
+C:\Users\arts1\Desktop\C.sharp-practice\c-charp.pro\A\1l005\A\A\obj\Debug\net8.0\A.AssemblyInfo.cs
+C:\Users\arts1\Desktop\C.sharp-practice\c-charp.pro\A\1l005\A\A\obj\Debug\net8.0\A.csproj.CoreCompileInputs.cache
+C:\Users\arts1\Desktop\C.sharp-practice\c-charp.pro\A\1l005\A\A\obj\Debug\net8.0\A.sourcelink.json
+C:\Users\arts1\Desktop\C.sharp-practice\c-charp.pro\A\1l005\A\A\obj\Debug\net8.0\A.dll
+C:\Users\arts1\Desktop\C.sharp-practice\c-charp.pro\A\1l005\A\A\obj\Debug\net8.0\refint\A.dll
+C:\Users\arts1\Desktop\C.sharp-practice\c-charp.pro\A\1l005\A\A\obj\Debug\net8.0\A.pdb
+C:\Users\arts1\Desktop\C.sharp-practice\c-charp.pro\A\1l005\A\A\obj\Debug\net8.0\A.genruntimeconfig.cache
+C:\Users\arts1\Desktop\C.sharp-practice\c-charp.pro\A\1l005\A\A\obj\Debug\net8.0\ref\A.dll
