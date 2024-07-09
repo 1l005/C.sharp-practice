@@ -229,7 +229,70 @@
         //Console.WriteLine($"d: {sot}{edin}{tis}{ten}");
 
 
-        //#endregion
+        #endregion
+
+        #region A2.12. Дано натуральное число n (n > 9). Найти:
+        ////а) число единиц в нем;
+        ////б) число десятков в нем.
+        //Console.WriteLine("Введите натуральное число (число больше 9): ");
+        //int n = int.Parse(Console.ReadLine());
+
+        //if ( n <= 9)
+        //{
+        //    Console.WriteLine("Вы ввели неверное число, оно меньше или равно 9");
+        //    return;
+        //}
+
+        //int edin = n % 10;
+        //int ten = (n / 10) % 10;
+
+        //Console.WriteLine($"Единицы: {edin}");
+        //Console.WriteLine($"Единицы:  {ten}");
+
+        #endregion
+
+        #region A2.13. Дано натуральное число n (n > 99). Найти:
+        ////а) число десятков в нем;
+        ////б) число сотен в нем.
+
+        //Console.WriteLine("Введите натуральное число больше 99: ");
+        //int n = int.Parse(Console.ReadLine());
+
+        //if ( n <= 99)
+        //{
+        //    Console.WriteLine("Вы ввели число не подходящее условиям");
+        //    return;
+        //}
+
+        //int ten = (n / 10) % 10;
+        //int sot = (n / 100) % 10;
+
+        //Console.WriteLine($"Десятки: {ten}");
+        //Console.WriteLine($"Сотни: {sot}");
+
+        #endregion
+
+        #region A2.14. Дано натуральное число n (n > 999). Найти:
+        ////а) число сотен в нем;
+        ////б) число тысяч в нем.
+
+        //Console.WriteLine("Введите натуральное число больше 999: ");
+        //int n = int.Parse(Console.ReadLine());
+
+        //if ( n <= 999 )
+        //{
+        //    Console.WriteLine("Вы ввели неверное число по условиям задачи.");
+        //    return;
+        //}
+
+        //int sot = (n / 100) % 10;
+        //int tis = (n / 1000) % 10;
+
+        //Console.WriteLine($"Сотни: {sot}");
+        //Console.WriteLine($"Тысячи: {tis}");
+
+
+        #endregion
 
     }
 
